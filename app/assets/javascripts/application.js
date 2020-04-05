@@ -11,6 +11,8 @@
 // about supported directives.
 //
 //= require rails-ujs
-//= require activestorage
 //= require turbolinks
+//= require angular
+//= require angular-resource
+//= require ng-file-upload
 //= require_tree .
